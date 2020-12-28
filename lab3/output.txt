@@ -1,0 +1,1130 @@
+---Freq 1: 120 in all---
+white bread : 0.04209456024402625
+waffles : 0.03843416370106753
+pot plants : 0.017285205897305582
+sauces : 0.0054905948144382275
+photo/film : 0.009252669039145905
+pasta : 0.015048296898830736
+chicken : 0.04290798169801707
+hard cheese : 0.024504321301474407
+beef : 0.052465683782409275
+female sanitary products : 0.006100660904931362
+soups : 0.006812404677173353
+domestic eggs : 0.06344687341128549
+oil : 0.02806304016268439
+sweet spreads : 0.009049313675648192
+bottled beer : 0.080528723945094
+dish cleaner : 0.010472801220132185
+detergent : 0.01921708185053386
+shopping bags : 0.09852567361464225
+specialty bar : 0.027351296390442394
+sugar : 0.033858668022369136
+dental care : 0.005795627859684795
+ham : 0.026029486527707257
+ice cream : 0.02501270971021869
+margarine : 0.05856634468734047
+coffee : 0.0580579562785962
+cleaner : 0.005083884087442804
+bottled water : 0.11052364006100775
+yogurt : 0.13950177935943092
+napkins : 0.05236400610066042
+specialty cheese : 0.008540925266903908
+canned fish : 0.015048296898830736
+other vegetables : 0.1934926283680683
+condensed milk : 0.010269445856634472
+brown bread : 0.06487036095576953
+whole milk : 0.25551601423486453
+onions : 0.031011692933401235
+rolls/buns : 0.18393492628367675
+newspapers : 0.07981698017285198
+curd : 0.0532791052364001
+mayonnaise : 0.009150991357397048
+hygiene articles : 0.03294356888662946
+liquor (appetizer) : 0.007930859176410768
+frozen vegetables : 0.04809354346720859
+kitchen towels : 0.005998983223182507
+seasonal products : 0.014234875444839883
+processed cheese : 0.016573462125063585
+popcorn : 0.0072191154041687765
+semi-finished bread : 0.01769191662430101
+frozen meals : 0.02836807320793096
+soda : 0.1743772241992852
+specialty chocolate : 0.030401626842908095
+vinegar : 0.006507371631926786
+rice : 0.0076258261311642
+flower (seeds) : 0.010371123538383329
+instant coffee : 0.007422470767666488
+pork : 0.05765124555160079
+sausage : 0.09395017793594354
+turkey : 0.008134214539908481
+cake bar : 0.013218098627351316
+berries : 0.033248601931876016
+spread cheese : 0.011184544992374182
+sparkling wine : 0.005592272496187083
+chocolate : 0.049618708693441385
+butter : 0.05541433655312602
+hamburger meat : 0.033248601931876016
+pip fruit : 0.07564819522114871
+herbs : 0.016268429079817015
+frozen potato products : 0.008439247585155052
+liver loaf : 0.005083884087442804
+roll products  : 0.010269445856634472
+citrus fruit : 0.08276563294356892
+misc. beverages : 0.02836807320793096
+meat : 0.025826131164209544
+pickled vegetables : 0.017895271987798722
+beverages : 0.026029486527707257
+frozen fish : 0.011692933401118466
+flour : 0.01738688357905444
+candy : 0.02989323843416381
+Instant food products : 0.008032536858159625
+sliced cheese : 0.024504321301474407
+softener : 0.0054905948144382275
+baking powder : 0.01769191662430101
+jam : 0.005388917132689372
+grapes : 0.022369089984748416
+long life bakery product : 0.037417386883579
+red/blush wine : 0.01921708185053386
+finished products : 0.006507371631926786
+zwieback : 0.006914082358922209
+cream cheese  : 0.03965429588205377
+cereals : 0.005693950177935939
+frozen dessert : 0.010777834265378755
+pet care : 0.009456024402643618
+tropical fruit : 0.10493136756482044
+white wine : 0.019013726487036146
+chewing gum : 0.02104728012201328
+cling film/bags : 0.011387900355871896
+dishes : 0.017590238942552152
+liquor : 0.011082867310625326
+fruit/vegetable juice : 0.07229283172343633
+dessert : 0.03711235383833244
+packaged fruit/vegetables : 0.013014743263853603
+cat food : 0.023284189120488127
+canned beer : 0.07768174885612592
+candles : 0.008947635993899335
+dog food : 0.008540925266903908
+salt : 0.010777834265378755
+chocolate marshmallow : 0.009049313675648192
+canned vegetables : 0.010777834265378755
+pastry : 0.08896797153024939
+whipped/sour cream : 0.07168276563294317
+soft cheese : 0.01708185053380787
+spices : 0.00518556176919166
+curd cheese : 0.005083884087442804
+salty snack : 0.03782409761057441
+root vegetables : 0.10899847483477484
+house keeping products : 0.008337569903406195
+UHT-milk : 0.03345195729537372
+frankfurter : 0.05897305541433588
+butter milk : 0.027961362480935534
+mustard : 0.011997966446365036
+
+---Freq 2: 605 in all---
+white bread, domestic eggs,  : 0.005795627859684795
+white bread, shopping bags,  : 0.007422470767666488
+white bread, ham,  : 0.005083884087442804
+white bread, yogurt,  : 0.009049313675648192
+white bread, other vegetables,  : 0.0137264870360956
+white bread, whole milk,  : 0.01708185053380787
+white bread, rolls/buns,  : 0.006507371631926786
+white bread, soda,  : 0.010269445856634472
+white bread, sausage,  : 0.0072191154041687765
+white bread, pip fruit,  : 0.0066090493136756415
+white bread, tropical fruit,  : 0.008744280630401622
+white bread, fruit/vegetable juice,  : 0.007422470767666488
+white bread, pastry,  : 0.005592272496187083
+white bread, whipped/sour cream,  : 0.0054905948144382275
+white bread, root vegetables,  : 0.007930859176410768
+white bread, frankfurter,  : 0.00518556176919166
+waffles, shopping bags,  : 0.0054905948144382275
+waffles, yogurt,  : 0.007524148449415344
+waffles, other vegetables,  : 0.010066090493136759
+waffles, whole milk,  : 0.012709710218607033
+waffles, rolls/buns,  : 0.009150991357397048
+waffles, soda,  : 0.009557702084392475
+waffles, chocolate,  : 0.005795627859684795
+waffles, tropical fruit,  : 0.006100660904931362
+waffles, pastry,  : 0.007015760040671065
+waffles, whipped/sour cream,  : 0.005083884087442804
+waffles, root vegetables,  : 0.0066090493136756415
+pot plants, whole milk,  : 0.006914082358922209
+pasta, whole milk,  : 0.006100660904931362
+chicken, domestic eggs,  : 0.006202338586680218
+chicken, bottled water,  : 0.005287239450940516
+chicken, yogurt,  : 0.008337569903406195
+chicken, other vegetables,  : 0.017895271987798722
+chicken, whole milk,  : 0.017590238942552152
+chicken, rolls/buns,  : 0.009659379766141332
+chicken, newspapers,  : 0.00518556176919166
+chicken, frozen vegetables,  : 0.006710726995424497
+chicken, soda,  : 0.008337569903406195
+chicken, pork,  : 0.005795627859684795
+chicken, sausage,  : 0.005287239450940516
+chicken, butter,  : 0.005795627859684795
+chicken, citrus fruit,  : 0.006914082358922209
+chicken, tropical fruit,  : 0.00640569395017793
+chicken, whipped/sour cream,  : 0.0072191154041687765
+chicken, root vegetables,  : 0.010879511947127612
+hard cheese, yogurt,  : 0.00640569395017793
+hard cheese, other vegetables,  : 0.009456024402643618
+hard cheese, whole milk,  : 0.010066090493136759
+hard cheese, rolls/buns,  : 0.005897305541433651
+hard cheese, sausage,  : 0.00518556176919166
+hard cheese, root vegetables,  : 0.005592272496187083
+beef, domestic eggs,  : 0.005998983223182507
+beef, margarine,  : 0.006202338586680218
+beef, bottled water,  : 0.006202338586680218
+beef, yogurt,  : 0.011692933401118466
+beef, other vegetables,  : 0.019725470259278143
+beef, whole milk,  : 0.021250635485510993
+beef, rolls/buns,  : 0.013624809354346743
+beef, newspapers,  : 0.00640569395017793
+beef, soda,  : 0.008134214539908481
+beef, pork,  : 0.0076258261311642
+beef, sausage,  : 0.005592272496187083
+beef, butter,  : 0.005795627859684795
+beef, citrus fruit,  : 0.008439247585155052
+beef, tropical fruit,  : 0.0076258261311642
+beef, fruit/vegetable juice,  : 0.005083884087442804
+beef, pastry,  : 0.006304016268429074
+beef, whipped/sour cream,  : 0.006710726995424497
+beef, root vegetables,  : 0.01738688357905444
+domestic eggs, shopping bags,  : 0.009049313675648192
+domestic eggs, margarine,  : 0.008337569903406195
+domestic eggs, bottled water,  : 0.009150991357397048
+domestic eggs, yogurt,  : 0.01433655312658874
+domestic eggs, napkins,  : 0.005998983223182507
+domestic eggs, other vegetables,  : 0.02226741230299956
+domestic eggs, brown bread,  : 0.006812404677173353
+domestic eggs, whole milk,  : 0.02999491611591267
+domestic eggs, rolls/buns,  : 0.015658362989323875
+domestic eggs, newspapers,  : 0.006914082358922209
+domestic eggs, curd,  : 0.006507371631926786
+domestic eggs, frozen vegetables,  : 0.00518556176919166
+domestic eggs, soda,  : 0.012404677173360463
+domestic eggs, pork,  : 0.005592272496187083
+domestic eggs, sausage,  : 0.009557702084392475
+domestic eggs, butter,  : 0.009659379766141332
+domestic eggs, pip fruit,  : 0.008642602948652765
+domestic eggs, citrus fruit,  : 0.010371123538383329
+domestic eggs, cream cheese ,  : 0.005083884087442804
+domestic eggs, tropical fruit,  : 0.011387900355871896
+domestic eggs, fruit/vegetable juice,  : 0.008032536858159625
+domestic eggs, pastry,  : 0.009049313675648192
+domestic eggs, whipped/sour cream,  : 0.009964412811387902
+domestic eggs, root vegetables,  : 0.01433655312658874
+domestic eggs, frankfurter,  : 0.007015760040671065
+oil, yogurt,  : 0.005287239450940516
+oil, other vegetables,  : 0.009964412811387902
+oil, whole milk,  : 0.011286222674123039
+oil, rolls/buns,  : 0.005083884087442804
+oil, root vegetables,  : 0.007015760040671065
+bottled beer, shopping bags,  : 0.005592272496187083
+bottled beer, margarine,  : 0.006100660904931362
+bottled beer, bottled water,  : 0.01576004067107273
+bottled beer, yogurt,  : 0.009252669039145905
+bottled beer, napkins,  : 0.00518556176919166
+bottled beer, other vegetables,  : 0.01616675139806816
+bottled beer, brown bread,  : 0.00518556176919166
+bottled beer, whole milk,  : 0.02043721403152014
+bottled beer, rolls/buns,  : 0.013624809354346743
+bottled beer, soda,  : 0.016980172852059012
+bottled beer, pork,  : 0.00518556176919166
+bottled beer, sausage,  : 0.007829181494661911
+bottled beer, butter,  : 0.005795627859684795
+bottled beer, pip fruit,  : 0.005897305541433651
+bottled beer, citrus fruit,  : 0.006100660904931362
+bottled beer, tropical fruit,  : 0.008235892221657338
+bottled beer, fruit/vegetable juice,  : 0.007015760040671065
+bottled beer, root vegetables,  : 0.009659379766141332
+bottled beer, frankfurter,  : 0.005388917132689372
+detergent, other vegetables,  : 0.00640569395017793
+detergent, whole milk,  : 0.008947635993899335
+shopping bags, margarine,  : 0.005693950177935939
+shopping bags, coffee,  : 0.009354346720894762
+shopping bags, bottled water,  : 0.010981189628876469
+shopping bags, yogurt,  : 0.01525165226232845
+shopping bags, napkins,  : 0.0072191154041687765
+shopping bags, other vegetables,  : 0.02318251143873927
+shopping bags, brown bread,  : 0.009252669039145905
+shopping bags, whole milk,  : 0.024504321301474407
+shopping bags, rolls/buns,  : 0.01952211489578043
+shopping bags, newspapers,  : 0.006914082358922209
+shopping bags, curd,  : 0.005388917132689372
+shopping bags, hygiene articles,  : 0.00518556176919166
+shopping bags, soda,  : 0.024605998983223264
+shopping bags, pork,  : 0.00640569395017793
+shopping bags, sausage,  : 0.015658362989323875
+shopping bags, chocolate,  : 0.008134214539908481
+shopping bags, pip fruit,  : 0.009354346720894762
+shopping bags, citrus fruit,  : 0.009761057447890189
+shopping bags, long life bakery product,  : 0.005388917132689372
+shopping bags, cream cheese ,  : 0.005592272496187083
+shopping bags, tropical fruit,  : 0.013523131672597886
+shopping bags, fruit/vegetable juice,  : 0.010676156583629899
+shopping bags, dessert,  : 0.006202338586680218
+shopping bags, canned beer,  : 0.011387900355871896
+shopping bags, pastry,  : 0.011896288764616179
+shopping bags, whipped/sour cream,  : 0.007930859176410768
+shopping bags, salty snack,  : 0.005998983223182507
+shopping bags, root vegetables,  : 0.01281138790035589
+shopping bags, frankfurter,  : 0.008235892221657338
+specialty bar, other vegetables,  : 0.005592272496187083
+specialty bar, whole milk,  : 0.006507371631926786
+specialty bar, rolls/buns,  : 0.005592272496187083
+specialty bar, soda,  : 0.0072191154041687765
+sugar, margarine,  : 0.0054905948144382275
+sugar, yogurt,  : 0.006914082358922209
+sugar, other vegetables,  : 0.010777834265378755
+sugar, whole milk,  : 0.015048296898830736
+sugar, rolls/buns,  : 0.007015760040671065
+sugar, soda,  : 0.007320793085917632
+sugar, pastry,  : 0.00518556176919166
+sugar, root vegetables,  : 0.00640569395017793
+ham, yogurt,  : 0.006710726995424497
+ham, other vegetables,  : 0.009150991357397048
+ham, whole milk,  : 0.011489578037620752
+ham, rolls/buns,  : 0.006914082358922209
+ham, tropical fruit,  : 0.005388917132689372
+ice cream, other vegetables,  : 0.005083884087442804
+ice cream, whole milk,  : 0.005897305541433651
+ice cream, soda,  : 0.006100660904931362
+margarine, bottled water,  : 0.010269445856634472
+margarine, yogurt,  : 0.014234875444839883
+margarine, other vegetables,  : 0.019725470259278143
+margarine, brown bread,  : 0.006507371631926786
+margarine, whole milk,  : 0.024199288256227837
+margarine, rolls/buns,  : 0.014743263853584166
+margarine, newspapers,  : 0.007117437722419921
+margarine, curd,  : 0.006304016268429074
+margarine, frozen vegetables,  : 0.005083884087442804
+margarine, soda,  : 0.010167768174885615
+margarine, pork,  : 0.00640569395017793
+margarine, sausage,  : 0.007117437722419921
+margarine, butter,  : 0.006710726995424497
+margarine, pip fruit,  : 0.008540925266903908
+margarine, citrus fruit,  : 0.007930859176410768
+margarine, tropical fruit,  : 0.009354346720894762
+margarine, fruit/vegetable juice,  : 0.006202338586680218
+margarine, pastry,  : 0.006812404677173353
+margarine, whipped/sour cream,  : 0.006812404677173353
+margarine, root vegetables,  : 0.011082867310625326
+margarine, frankfurter,  : 0.00640569395017793
+coffee, bottled water,  : 0.007320793085917632
+coffee, yogurt,  : 0.009761057447890189
+coffee, other vegetables,  : 0.01342145399084903
+coffee, whole milk,  : 0.018708693441789576
+coffee, rolls/buns,  : 0.010981189628876469
+coffee, soda,  : 0.009964412811387902
+coffee, sausage,  : 0.006914082358922209
+coffee, pip fruit,  : 0.006914082358922209
+coffee, citrus fruit,  : 0.00640569395017793
+coffee, tropical fruit,  : 0.007117437722419921
+coffee, fruit/vegetable juice,  : 0.005998983223182507
+coffee, pastry,  : 0.006914082358922209
+coffee, whipped/sour cream,  : 0.006100660904931362
+coffee, root vegetables,  : 0.007320793085917632
+coffee, frankfurter,  : 0.005083884087442804
+bottled water, yogurt,  : 0.022979156075241557
+bottled water, napkins,  : 0.008642602948652765
+bottled water, other vegetables,  : 0.024809354346720977
+bottled water, brown bread,  : 0.008235892221657338
+bottled water, whole milk,  : 0.0343670564311134
+bottled water, onions,  : 0.005897305541433651
+bottled water, rolls/buns,  : 0.024199288256227837
+bottled water, newspapers,  : 0.011286222674123039
+bottled water, curd,  : 0.006100660904931362
+bottled water, hygiene articles,  : 0.005693950177935939
+bottled water, frozen vegetables,  : 0.006202338586680218
+bottled water, soda,  : 0.0289781392984241
+bottled water, pork,  : 0.007422470767666488
+bottled water, sausage,  : 0.011997966446365036
+bottled water, chocolate,  : 0.005795627859684795
+bottled water, butter,  : 0.008947635993899335
+bottled water, pip fruit,  : 0.010574478901881042
+bottled water, citrus fruit,  : 0.013523131672597886
+bottled water, misc. beverages,  : 0.005287239450940516
+bottled water, cream cheese ,  : 0.005897305541433651
+bottled water, tropical fruit,  : 0.018505338078291862
+bottled water, fruit/vegetable juice,  : 0.014234875444839883
+bottled water, dessert,  : 0.00518556176919166
+bottled water, canned beer,  : 0.008032536858159625
+bottled water, pastry,  : 0.008947635993899335
+bottled water, whipped/sour cream,  : 0.008744280630401622
+bottled water, root vegetables,  : 0.015658362989323875
+bottled water, UHT-milk,  : 0.007320793085917632
+bottled water, frankfurter,  : 0.007320793085917632
+yogurt, napkins,  : 0.012302999491611606
+yogurt, other vegetables,  : 0.04341637010676134
+yogurt, brown bread,  : 0.014539908490086453
+yogurt, whole milk,  : 0.05602440264361914
+yogurt, onions,  : 0.0072191154041687765
+yogurt, rolls/buns,  : 0.0343670564311134
+yogurt, newspapers,  : 0.015353329944077307
+yogurt, curd,  : 0.017285205897305582
+yogurt, hygiene articles,  : 0.007320793085917632
+yogurt, frozen vegetables,  : 0.012404677173360463
+yogurt, frozen meals,  : 0.006202338586680218
+yogurt, soda,  : 0.027351296390442394
+yogurt, pork,  : 0.009557702084392475
+yogurt, sausage,  : 0.019623792577529286
+yogurt, berries,  : 0.010574478901881042
+yogurt, chocolate,  : 0.009252669039145905
+yogurt, butter,  : 0.01464158617183531
+yogurt, hamburger meat,  : 0.006507371631926786
+yogurt, pip fruit,  : 0.01799694966954758
+yogurt, citrus fruit,  : 0.02165734621250642
+yogurt, meat,  : 0.005287239450940516
+yogurt, beverages,  : 0.0054905948144382275
+yogurt, candy,  : 0.0054905948144382275
+yogurt, sliced cheese,  : 0.008032536858159625
+yogurt, long life bakery product,  : 0.008744280630401622
+yogurt, cream cheese ,  : 0.012404677173360463
+yogurt, tropical fruit,  : 0.02928317234367067
+yogurt, fruit/vegetable juice,  : 0.018708693441789576
+yogurt, dessert,  : 0.009862735129639045
+yogurt, cat food,  : 0.006202338586680218
+yogurt, canned beer,  : 0.005388917132689372
+yogurt, pastry,  : 0.01769191662430101
+yogurt, whipped/sour cream,  : 0.02074224707676671
+yogurt, soft cheese,  : 0.005998983223182507
+yogurt, salty snack,  : 0.006202338586680218
+yogurt, root vegetables,  : 0.025826131164209544
+yogurt, UHT-milk,  : 0.007422470767666488
+yogurt, frankfurter,  : 0.011184544992374182
+yogurt, butter milk,  : 0.008540925266903908
+napkins, other vegetables,  : 0.014438230808337596
+napkins, whole milk,  : 0.019725470259278143
+napkins, rolls/buns,  : 0.011692933401118466
+napkins, newspapers,  : 0.006202338586680218
+napkins, hygiene articles,  : 0.006100660904931362
+napkins, soda,  : 0.011997966446365036
+napkins, pork,  : 0.00518556176919166
+napkins, sausage,  : 0.006710726995424497
+napkins, pip fruit,  : 0.006710726995424497
+napkins, citrus fruit,  : 0.0076258261311642
+napkins, tropical fruit,  : 0.010066090493136759
+napkins, fruit/vegetable juice,  : 0.006914082358922209
+napkins, pastry,  : 0.007015760040671065
+napkins, whipped/sour cream,  : 0.0072191154041687765
+napkins, root vegetables,  : 0.009964412811387902
+canned fish, other vegetables,  : 0.005083884087442804
+other vegetables, brown bread,  : 0.018708693441789576
+other vegetables, whole milk,  : 0.07483477376715783
+other vegetables, onions,  : 0.014234875444839883
+other vegetables, rolls/buns,  : 0.04260294865277051
+other vegetables, newspapers,  : 0.019318759532282716
+other vegetables, curd,  : 0.017183528215556725
+other vegetables, hygiene articles,  : 0.009557702084392475
+other vegetables, frozen vegetables,  : 0.017793594306049865
+other vegetables, processed cheese,  : 0.0054905948144382275
+other vegetables, semi-finished bread,  : 0.00518556176919166
+other vegetables, frozen meals,  : 0.007524148449415344
+other vegetables, soda,  : 0.03274021352313175
+other vegetables, specialty chocolate,  : 0.006100660904931362
+other vegetables, pork,  : 0.02165734621250642
+other vegetables, sausage,  : 0.026944585663446968
+other vegetables, berries,  : 0.010269445856634472
+other vegetables, chocolate,  : 0.012709710218607033
+other vegetables, butter,  : 0.020030503304524713
+other vegetables, hamburger meat,  : 0.013828164717844456
+other vegetables, pip fruit,  : 0.026131164209456114
+other vegetables, herbs,  : 0.007727503812913056
+other vegetables, citrus fruit,  : 0.028876461616675245
+other vegetables, misc. beverages,  : 0.005592272496187083
+other vegetables, meat,  : 0.009964412811387902
+other vegetables, pickled vegetables,  : 0.00640569395017793
+other vegetables, beverages,  : 0.00518556176919166
+other vegetables, flour,  : 0.006304016268429074
+other vegetables, candy,  : 0.006914082358922209
+other vegetables, sliced cheese,  : 0.009049313675648192
+other vegetables, baking powder,  : 0.007320793085917632
+other vegetables, grapes,  : 0.009049313675648192
+other vegetables, long life bakery product,  : 0.010676156583629899
+other vegetables, cream cheese ,  : 0.0137264870360956
+other vegetables, tropical fruit,  : 0.0358922216573462
+other vegetables, dishes,  : 0.005998983223182507
+other vegetables, fruit/vegetable juice,  : 0.02104728012201328
+other vegetables, dessert,  : 0.011591255719369609
+other vegetables, cat food,  : 0.006507371631926786
+other vegetables, canned beer,  : 0.009049313675648192
+other vegetables, pastry,  : 0.02257244534824613
+other vegetables, whipped/sour cream,  : 0.028876461616675245
+other vegetables, soft cheese,  : 0.007117437722419921
+other vegetables, salty snack,  : 0.010777834265378755
+other vegetables, root vegetables,  : 0.047381799694966614
+other vegetables, UHT-milk,  : 0.008134214539908481
+other vegetables, frankfurter,  : 0.01647178444331473
+other vegetables, butter milk,  : 0.010371123538383329
+brown bread, whole milk,  : 0.025216065073716404
+brown bread, rolls/buns,  : 0.012608032536858176
+brown bread, newspapers,  : 0.0076258261311642
+brown bread, soda,  : 0.012608032536858176
+brown bread, pork,  : 0.005592272496187083
+brown bread, sausage,  : 0.010676156583629899
+brown bread, butter,  : 0.005795627859684795
+brown bread, pip fruit,  : 0.0076258261311642
+brown bread, citrus fruit,  : 0.008337569903406195
+brown bread, tropical fruit,  : 0.010676156583629899
+brown bread, fruit/vegetable juice,  : 0.008337569903406195
+brown bread, pastry,  : 0.009659379766141332
+brown bread, root vegetables,  : 0.010167768174885615
+brown bread, frankfurter,  : 0.007117437722419921
+whole milk, onions,  : 0.012099644128113892
+whole milk, rolls/buns,  : 0.05663446873411226
+whole milk, newspapers,  : 0.027351296390442394
+whole milk, curd,  : 0.026131164209456114
+whole milk, hygiene articles,  : 0.01281138790035589
+whole milk, frozen vegetables,  : 0.02043721403152014
+whole milk, processed cheese,  : 0.007015760040671065
+whole milk, semi-finished bread,  : 0.007117437722419921
+whole milk, frozen meals,  : 0.009862735129639045
+whole milk, soda,  : 0.04006100660904918
+whole milk, specialty chocolate,  : 0.008032536858159625
+whole milk, pork,  : 0.022165734621250703
+whole milk, sausage,  : 0.02989323843416381
+whole milk, cake bar,  : 0.005592272496187083
+whole milk, berries,  : 0.011794611082867322
+whole milk, chocolate,  : 0.016675139806812442
+whole milk, butter,  : 0.027554651753940108
+whole milk, hamburger meat,  : 0.014743263853584166
+whole milk, pip fruit,  : 0.030096593797661525
+whole milk, herbs,  : 0.007727503812913056
+whole milk, citrus fruit,  : 0.030503304524656952
+whole milk, misc. beverages,  : 0.007015760040671065
+whole milk, meat,  : 0.009964412811387902
+whole milk, pickled vegetables,  : 0.007117437722419921
+whole milk, beverages,  : 0.006812404677173353
+whole milk, flour,  : 0.008439247585155052
+whole milk, candy,  : 0.008235892221657338
+whole milk, sliced cheese,  : 0.010777834265378755
+whole milk, baking powder,  : 0.009252669039145905
+whole milk, grapes,  : 0.007320793085917632
+whole milk, long life bakery product,  : 0.013523131672597886
+whole milk, cream cheese ,  : 0.01647178444331473
+whole milk, tropical fruit,  : 0.04229791560752395
+whole milk, chewing gum,  : 0.005083884087442804
+whole milk, dishes,  : 0.005287239450940516
+whole milk, fruit/vegetable juice,  : 0.026639552618200397
+whole milk, dessert,  : 0.0137264870360956
+whole milk, cat food,  : 0.008845958312150478
+whole milk, canned beer,  : 0.008845958312150478
+whole milk, pastry,  : 0.033248601931876016
+whole milk, whipped/sour cream,  : 0.032231825114387484
+whole milk, soft cheese,  : 0.007524148449415344
+whole milk, salty snack,  : 0.011184544992374182
+whole milk, root vegetables,  : 0.04890696492119941
+whole milk, frankfurter,  : 0.020538891713268996
+whole milk, butter milk,  : 0.011591255719369609
+whole milk, mustard,  : 0.00518556176919166
+onions, rolls/buns,  : 0.006812404677173353
+onions, soda,  : 0.005287239450940516
+onions, citrus fruit,  : 0.005592272496187083
+onions, tropical fruit,  : 0.005693950177935939
+onions, whipped/sour cream,  : 0.005083884087442804
+onions, root vegetables,  : 0.009456024402643618
+rolls/buns, newspapers,  : 0.019725470259278143
+rolls/buns, curd,  : 0.010066090493136759
+rolls/buns, hygiene articles,  : 0.005897305541433651
+rolls/buns, frozen vegetables,  : 0.010167768174885615
+rolls/buns, soda,  : 0.03833248601931868
+rolls/buns, specialty chocolate,  : 0.005592272496187083
+rolls/buns, pork,  : 0.011286222674123039
+rolls/buns, sausage,  : 0.03060498220640581
+rolls/buns, berries,  : 0.0066090493136756415
+rolls/buns, chocolate,  : 0.011794611082867322
+rolls/buns, butter,  : 0.01342145399084903
+rolls/buns, hamburger meat,  : 0.008642602948652765
+rolls/buns, pip fruit,  : 0.013929842399593313
+rolls/buns, citrus fruit,  : 0.0167768174885613
+rolls/buns, meat,  : 0.006914082358922209
+rolls/buns, beverages,  : 0.005388917132689372
+rolls/buns, candy,  : 0.007117437722419921
+rolls/buns, sliced cheese,  : 0.0076258261311642
+rolls/buns, long life bakery product,  : 0.007930859176410768
+rolls/buns, cream cheese ,  : 0.009964412811387902
+rolls/buns, tropical fruit,  : 0.024605998983223264
+rolls/buns, fruit/vegetable juice,  : 0.014539908490086453
+rolls/buns, dessert,  : 0.006812404677173353
+rolls/buns, canned beer,  : 0.011286222674123039
+rolls/buns, pastry,  : 0.020945602440264423
+rolls/buns, whipped/sour cream,  : 0.01464158617183531
+rolls/buns, soft cheese,  : 0.005388917132689372
+rolls/buns, root vegetables,  : 0.024300965937976694
+rolls/buns, UHT-milk,  : 0.00640569395017793
+rolls/buns, frankfurter,  : 0.01921708185053386
+rolls/buns, butter milk,  : 0.0076258261311642
+newspapers, curd,  : 0.005693950177935939
+newspapers, soda,  : 0.01464158617183531
+newspapers, pork,  : 0.0066090493136756415
+newspapers, sausage,  : 0.008032536858159625
+newspapers, chocolate,  : 0.0054905948144382275
+newspapers, butter,  : 0.005795627859684795
+newspapers, pip fruit,  : 0.006710726995424497
+newspapers, citrus fruit,  : 0.008337569903406195
+newspapers, tropical fruit,  : 0.011794611082867322
+newspapers, fruit/vegetable juice,  : 0.008235892221657338
+newspapers, pastry,  : 0.008439247585155052
+newspapers, whipped/sour cream,  : 0.0072191154041687765
+newspapers, root vegetables,  : 0.011489578037620752
+curd, soda,  : 0.008134214539908481
+curd, sausage,  : 0.0076258261311642
+curd, butter,  : 0.006812404677173353
+curd, pip fruit,  : 0.007829181494661911
+curd, citrus fruit,  : 0.007117437722419921
+curd, cream cheese ,  : 0.005083884087442804
+curd, tropical fruit,  : 0.010269445856634472
+curd, dessert,  : 0.00518556176919166
+curd, pastry,  : 0.007524148449415344
+curd, whipped/sour cream,  : 0.010472801220132185
+curd, root vegetables,  : 0.010879511947127612
+hygiene articles, soda,  : 0.007015760040671065
+hygiene articles, citrus fruit,  : 0.005287239450940516
+hygiene articles, tropical fruit,  : 0.006710726995424497
+hygiene articles, root vegetables,  : 0.005388917132689372
+frozen vegetables, soda,  : 0.008642602948652765
+frozen vegetables, pork,  : 0.00640569395017793
+frozen vegetables, sausage,  : 0.005998983223182507
+frozen vegetables, butter,  : 0.005795627859684795
+frozen vegetables, pip fruit,  : 0.007320793085917632
+frozen vegetables, citrus fruit,  : 0.0066090493136756415
+frozen vegetables, tropical fruit,  : 0.008744280630401622
+frozen vegetables, fruit/vegetable juice,  : 0.007829181494661911
+frozen vegetables, whipped/sour cream,  : 0.007930859176410768
+frozen vegetables, root vegetables,  : 0.011591255719369609
+frozen vegetables, frankfurter,  : 0.005083884087442804
+processed cheese, soda,  : 0.005287239450940516
+frozen meals, soda,  : 0.006202338586680218
+frozen meals, tropical fruit,  : 0.0054905948144382275
+soda, specialty chocolate,  : 0.006304016268429074
+soda, pork,  : 0.011896288764616179
+soda, sausage,  : 0.024300965937976694
+soda, berries,  : 0.007320793085917632
+soda, chocolate,  : 0.013523131672597886
+soda, butter,  : 0.008845958312150478
+soda, hamburger meat,  : 0.005795627859684795
+soda, pip fruit,  : 0.013319776309100173
+soda, citrus fruit,  : 0.01281138790035589
+soda, misc. beverages,  : 0.007320793085917632
+soda, meat,  : 0.0054905948144382275
+soda, candy,  : 0.008642602948652765
+soda, sliced cheese,  : 0.005083884087442804
+soda, long life bakery product,  : 0.0076258261311642
+soda, cream cheese ,  : 0.006812404677173353
+soda, tropical fruit,  : 0.020843924758515566
+soda, chewing gum,  : 0.005388917132689372
+soda, fruit/vegetable juice,  : 0.018403660396543006
+soda, dessert,  : 0.009862735129639045
+soda, canned beer,  : 0.013828164717844456
+soda, pastry,  : 0.02104728012201328
+soda, whipped/sour cream,  : 0.011591255719369609
+soda, salty snack,  : 0.009354346720894762
+soda, root vegetables,  : 0.01860701576004072
+soda, UHT-milk,  : 0.0076258261311642
+soda, frankfurter,  : 0.011286222674123039
+pork, sausage,  : 0.006507371631926786
+pork, butter,  : 0.0054905948144382275
+pork, pip fruit,  : 0.006100660904931362
+pork, citrus fruit,  : 0.006507371631926786
+pork, tropical fruit,  : 0.008540925266903908
+pork, pastry,  : 0.006304016268429074
+pork, whipped/sour cream,  : 0.008235892221657338
+pork, root vegetables,  : 0.013624809354346743
+pork, frankfurter,  : 0.005897305541433651
+sausage, chocolate,  : 0.0066090493136756415
+sausage, butter,  : 0.008642602948652765
+sausage, hamburger meat,  : 0.00518556176919166
+sausage, pip fruit,  : 0.010777834265378755
+sausage, citrus fruit,  : 0.011286222674123039
+sausage, meat,  : 0.005287239450940516
+sausage, sliced cheese,  : 0.007015760040671065
+sausage, long life bakery product,  : 0.005388917132689372
+sausage, cream cheese ,  : 0.005592272496187083
+sausage, tropical fruit,  : 0.013929842399593313
+sausage, fruit/vegetable juice,  : 0.010066090493136759
+sausage, dessert,  : 0.005897305541433651
+sausage, canned beer,  : 0.006304016268429074
+sausage, pastry,  : 0.01250635485510932
+sausage, whipped/sour cream,  : 0.009049313675648192
+sausage, salty snack,  : 0.005287239450940516
+sausage, root vegetables,  : 0.01494661921708188
+sausage, frankfurter,  : 0.010066090493136759
+berries, citrus fruit,  : 0.005388917132689372
+berries, tropical fruit,  : 0.006710726995424497
+berries, whipped/sour cream,  : 0.009049313675648192
+berries, root vegetables,  : 0.0066090493136756415
+chocolate, butter,  : 0.006202338586680218
+chocolate, pip fruit,  : 0.006100660904931362
+chocolate, citrus fruit,  : 0.00640569395017793
+chocolate, long life bakery product,  : 0.005287239450940516
+chocolate, tropical fruit,  : 0.008134214539908481
+chocolate, fruit/vegetable juice,  : 0.006812404677173353
+chocolate, pastry,  : 0.008032536858159625
+chocolate, root vegetables,  : 0.00640569395017793
+butter, pip fruit,  : 0.007320793085917632
+butter, citrus fruit,  : 0.009150991357397048
+butter, tropical fruit,  : 0.009964412811387902
+butter, fruit/vegetable juice,  : 0.008032536858159625
+butter, pastry,  : 0.0076258261311642
+butter, whipped/sour cream,  : 0.010167768174885615
+butter, root vegetables,  : 0.012913065582104746
+hamburger meat, root vegetables,  : 0.006202338586680218
+pip fruit, citrus fruit,  : 0.013828164717844456
+pip fruit, cream cheese ,  : 0.006100660904931362
+pip fruit, tropical fruit,  : 0.02043721403152014
+pip fruit, fruit/vegetable juice,  : 0.009557702084392475
+pip fruit, pastry,  : 0.010676156583629899
+pip fruit, whipped/sour cream,  : 0.009252669039145905
+pip fruit, root vegetables,  : 0.01555668530757502
+pip fruit, frankfurter,  : 0.0072191154041687765
+pip fruit, butter milk,  : 0.005083884087442804
+herbs, root vegetables,  : 0.007015760040671065
+citrus fruit, cream cheese ,  : 0.005693950177935939
+citrus fruit, tropical fruit,  : 0.019928825622775856
+citrus fruit, fruit/vegetable juice,  : 0.010371123538383329
+citrus fruit, pastry,  : 0.009761057447890189
+citrus fruit, whipped/sour cream,  : 0.010879511947127612
+citrus fruit, root vegetables,  : 0.01769191662430101
+citrus fruit, frankfurter,  : 0.006507371631926786
+meat, root vegetables,  : 0.005083884087442804
+candy, tropical fruit,  : 0.005388917132689372
+sliced cheese, tropical fruit,  : 0.005287239450940516
+sliced cheese, root vegetables,  : 0.005592272496187083
+grapes, tropical fruit,  : 0.006100660904931362
+long life bakery product, tropical fruit,  : 0.006304016268429074
+long life bakery product, fruit/vegetable juice,  : 0.006202338586680218
+long life bakery product, pastry,  : 0.005897305541433651
+long life bakery product, whipped/sour cream,  : 0.005795627859684795
+long life bakery product, root vegetables,  : 0.005287239450940516
+cream cheese , tropical fruit,  : 0.0072191154041687765
+cream cheese , fruit/vegetable juice,  : 0.005693950177935939
+cream cheese , whipped/sour cream,  : 0.00640569395017793
+cream cheese , root vegetables,  : 0.007524148449415344
+tropical fruit, fruit/vegetable juice,  : 0.0137264870360956
+tropical fruit, dessert,  : 0.006304016268429074
+tropical fruit, pastry,  : 0.013218098627351316
+tropical fruit, whipped/sour cream,  : 0.013828164717844456
+tropical fruit, salty snack,  : 0.005592272496187083
+tropical fruit, root vegetables,  : 0.02104728012201328
+tropical fruit, frankfurter,  : 0.009456024402643618
+tropical fruit, butter milk,  : 0.0054905948144382275
+fruit/vegetable juice, dessert,  : 0.005998983223182507
+fruit/vegetable juice, pastry,  : 0.008540925266903908
+fruit/vegetable juice, whipped/sour cream,  : 0.009049313675648192
+fruit/vegetable juice, salty snack,  : 0.005998983223182507
+fruit/vegetable juice, root vegetables,  : 0.011997966446365036
+fruit/vegetable juice, frankfurter,  : 0.005287239450940516
+dessert, pastry,  : 0.005388917132689372
+dessert, root vegetables,  : 0.005795627859684795
+pastry, whipped/sour cream,  : 0.007524148449415344
+pastry, salty snack,  : 0.00518556176919166
+pastry, root vegetables,  : 0.010981189628876469
+pastry, frankfurter,  : 0.008337569903406195
+whipped/sour cream, salty snack,  : 0.00518556176919166
+whipped/sour cream, root vegetables,  : 0.01708185053380787
+whipped/sour cream, frankfurter,  : 0.006202338586680218
+root vegetables, frankfurter,  : 0.010167768174885615
+root vegetables, butter milk,  : 0.005083884087442804
+
+---Freq 3: 264 in all---
+beef, yogurt, whole milk,  : 0.006100660904931362
+brown bread, whole milk, root vegetables,  : 0.005693950177935939
+other vegetables, whole milk, newspapers,  : 0.008337569903406195
+other vegetables, whole milk, citrus fruit,  : 0.013014743263853603
+yogurt, whole milk, butter,  : 0.009354346720894762
+shopping bags, soda, sausage,  : 0.005693950177935939
+other vegetables, rolls/buns, root vegetables,  : 0.012201321809862749
+whole milk, rolls/buns, citrus fruit,  : 0.0072191154041687765
+other vegetables, pip fruit, tropical fruit,  : 0.009456024402643618
+domestic eggs, whole milk, rolls/buns,  : 0.0066090493136756415
+yogurt, rolls/buns, sausage,  : 0.005998983223182507
+domestic eggs, other vegetables, whipped/sour cream,  : 0.005083884087442804
+whole milk, pastry, root vegetables,  : 0.005693950177935939
+beef, other vegetables, root vegetables,  : 0.007930859176410768
+yogurt, whole milk, pip fruit,  : 0.009557702084392475
+shopping bags, yogurt, other vegetables,  : 0.005388917132689372
+chicken, whole milk, root vegetables,  : 0.005998983223182507
+rolls/buns, soda, pastry,  : 0.005388917132689372
+chicken, other vegetables, root vegetables,  : 0.005693950177935939
+bottled water, other vegetables, whole milk,  : 0.010777834265378755
+other vegetables, rolls/buns, pastry,  : 0.006100660904931362
+other vegetables, rolls/buns, frankfurter,  : 0.005592272496187083
+yogurt, other vegetables, whole milk,  : 0.02226741230299956
+yogurt, whole milk, fruit/vegetable juice,  : 0.009456024402643618
+other vegetables, whole milk, root vegetables,  : 0.02318251143873927
+whole milk, rolls/buns, root vegetables,  : 0.012709710218607033
+bottled water, rolls/buns, tropical fruit,  : 0.005388917132689372
+shopping bags, whole milk, soda,  : 0.006812404677173353
+yogurt, other vegetables, fruit/vegetable juice,  : 0.008235892221657338
+whole milk, rolls/buns, pork,  : 0.006202338586680218
+yogurt, whole milk, sausage,  : 0.008744280630401622
+domestic eggs, whole milk, tropical fruit,  : 0.006914082358922209
+yogurt, rolls/buns, tropical fruit,  : 0.008744280630401622
+bottled water, other vegetables, rolls/buns,  : 0.007320793085917632
+other vegetables, rolls/buns, whipped/sour cream,  : 0.006710726995424497
+whole milk, citrus fruit, tropical fruit,  : 0.009049313675648192
+shopping bags, yogurt, whole milk,  : 0.005287239450940516
+yogurt, other vegetables, rolls/buns,  : 0.011489578037620752
+whole milk, tropical fruit, root vegetables,  : 0.011997966446365036
+beef, whole milk, rolls/buns,  : 0.006812404677173353
+bottled water, yogurt, tropical fruit,  : 0.007117437722419921
+yogurt, other vegetables, cream cheese ,  : 0.005287239450940516
+yogurt, other vegetables, curd,  : 0.006100660904931362
+other vegetables, whole milk, pastry,  : 0.010574478901881042
+other vegetables, tropical fruit, fruit/vegetable juice,  : 0.0066090493136756415
+other vegetables, whole milk, frankfurter,  : 0.0076258261311642
+whole milk, rolls/buns, pastry,  : 0.008540925266903908
+other vegetables, pip fruit, citrus fruit,  : 0.005897305541433651
+yogurt, whole milk, tropical fruit,  : 0.015149974580579593
+whole milk, tropical fruit, pastry,  : 0.006710726995424497
+other vegetables, whole milk, whipped/sour cream,  : 0.01464158617183531
+other vegetables, rolls/buns, butter,  : 0.005693950177935939
+whole milk, tropical fruit, frankfurter,  : 0.00518556176919166
+whole milk, rolls/buns, whipped/sour cream,  : 0.007829181494661911
+whole milk, root vegetables, frankfurter,  : 0.005083884087442804
+bottled water, whole milk, citrus fruit,  : 0.005897305541433651
+shopping bags, other vegetables, whole milk,  : 0.0076258261311642
+yogurt, other vegetables, tropical fruit,  : 0.012302999491611606
+other vegetables, citrus fruit, whipped/sour cream,  : 0.005693950177935939
+whole milk, butter, tropical fruit,  : 0.006202338586680218
+whole milk, rolls/buns, soda,  : 0.008845958312150478
+yogurt, other vegetables, frozen vegetables,  : 0.005287239450940516
+whole milk, tropical fruit, whipped/sour cream,  : 0.007930859176410768
+rolls/buns, tropical fruit, root vegetables,  : 0.005897305541433651
+other vegetables, rolls/buns, pip fruit,  : 0.005083884087442804
+yogurt, citrus fruit, tropical fruit,  : 0.006304016268429074
+shopping bags, other vegetables, rolls/buns,  : 0.005287239450940516
+yogurt, tropical fruit, root vegetables,  : 0.008134214539908481
+bottled beer, bottled water, soda,  : 0.005083884087442804
+bottled water, soda, fruit/vegetable juice,  : 0.00518556176919166
+yogurt, rolls/buns, newspapers,  : 0.005083884087442804
+whole milk, sausage, root vegetables,  : 0.007727503812913056
+other vegetables, pip fruit, root vegetables,  : 0.008134214539908481
+whole milk, pip fruit, citrus fruit,  : 0.00518556176919166
+yogurt, soda, fruit/vegetable juice,  : 0.005083884087442804
+other vegetables, soda, root vegetables,  : 0.008235892221657338
+other vegetables, curd, tropical fruit,  : 0.005287239450940516
+rolls/buns, soda, sausage,  : 0.009659379766141332
+shopping bags, whole milk, rolls/buns,  : 0.005287239450940516
+domestic eggs, whole milk, citrus fruit,  : 0.005693950177935939
+coffee, yogurt, whole milk,  : 0.005083884087442804
+other vegetables, whole milk, butter,  : 0.011489578037620752
+bottled beer, yogurt, whole milk,  : 0.00518556176919166
+yogurt, soda, sausage,  : 0.005592272496187083
+bottled water, whole milk, root vegetables,  : 0.007320793085917632
+whole milk, newspapers, tropical fruit,  : 0.005083884087442804
+yogurt, other vegetables, brown bread,  : 0.00518556176919166
+other vegetables, rolls/buns, sausage,  : 0.008845958312150478
+yogurt, rolls/buns, soda,  : 0.008642602948652765
+whole milk, soda, chocolate,  : 0.005083884087442804
+other vegetables, newspapers, root vegetables,  : 0.005998983223182507
+other vegetables, whole milk, pip fruit,  : 0.013523131672597886
+other vegetables, whipped/sour cream, root vegetables,  : 0.008540925266903908
+whole milk, sausage, pastry,  : 0.005693950177935939
+other vegetables, soda, pastry,  : 0.0054905948144382275
+yogurt, tropical fruit, whipped/sour cream,  : 0.006202338586680218
+whole milk, pip fruit, root vegetables,  : 0.008947635993899335
+brown bread, whole milk, tropical fruit,  : 0.005693950177935939
+beef, yogurt, other vegetables,  : 0.00518556176919166
+whole milk, soda, root vegetables,  : 0.008134214539908481
+rolls/buns, soda, tropical fruit,  : 0.005388917132689372
+bottled water, soda, tropical fruit,  : 0.00518556176919166
+yogurt, other vegetables, newspapers,  : 0.005592272496187083
+domestic eggs, whole milk, root vegetables,  : 0.008540925266903908
+bottled water, other vegetables, citrus fruit,  : 0.005083884087442804
+coffee, other vegetables, whole milk,  : 0.00640569395017793
+whole milk, sausage, whipped/sour cream,  : 0.005083884087442804
+other vegetables, pip fruit, whipped/sour cream,  : 0.005592272496187083
+whole milk, rolls/buns, fruit/vegetable juice,  : 0.005592272496187083
+bottled beer, other vegetables, whole milk,  : 0.0076258261311642
+yogurt, soda, tropical fruit,  : 0.0066090493136756415
+margarine, yogurt, whole milk,  : 0.007015760040671065
+yogurt, other vegetables, citrus fruit,  : 0.0076258261311642
+yogurt, sausage, root vegetables,  : 0.00518556176919166
+other vegetables, whole milk, sausage,  : 0.010167768174885615
+other vegetables, rolls/buns, tropical fruit,  : 0.007829181494661911
+yogurt, whole milk, soda,  : 0.010472801220132185
+bottled water, yogurt, other vegetables,  : 0.008134214539908481
+whole milk, tropical fruit, fruit/vegetable juice,  : 0.005998983223182507
+bottled water, whole milk, soda,  : 0.007524148449415344
+other vegetables, pastry, root vegetables,  : 0.005897305541433651
+whole milk, rolls/buns, curd,  : 0.005897305541433651
+whole milk, pip fruit, pastry,  : 0.005083884087442804
+whole milk, soda, pastry,  : 0.008235892221657338
+bottled beer, whole milk, rolls/buns,  : 0.005388917132689372
+other vegetables, pork, root vegetables,  : 0.007015760040671065
+bottled water, other vegetables, root vegetables,  : 0.007015760040671065
+whole milk, pip fruit, whipped/sour cream,  : 0.005998983223182507
+citrus fruit, tropical fruit, root vegetables,  : 0.005693950177935939
+whole milk, soda, whipped/sour cream,  : 0.0054905948144382275
+yogurt, other vegetables, root vegetables,  : 0.012913065582104746
+bottled water, yogurt, whole milk,  : 0.009659379766141332
+margarine, other vegetables, whole milk,  : 0.009252669039145905
+domestic eggs, whole milk, whipped/sour cream,  : 0.005693950177935939
+yogurt, pip fruit, root vegetables,  : 0.005287239450940516
+whole milk, rolls/buns, tropical fruit,  : 0.010981189628876469
+other vegetables, rolls/buns, pork,  : 0.005592272496187083
+bottled water, whole milk, butter,  : 0.005388917132689372
+beef, whole milk, root vegetables,  : 0.008032536858159625
+other vegetables, citrus fruit, tropical fruit,  : 0.009049313675648192
+whole milk, rolls/buns, frozen vegetables,  : 0.005083884087442804
+other vegetables, whole milk, chocolate,  : 0.0054905948144382275
+whole milk, sausage, pip fruit,  : 0.005592272496187083
+domestic eggs, other vegetables, soda,  : 0.005083884087442804
+other vegetables, brown bread, whole milk,  : 0.009354346720894762
+bottled water, yogurt, rolls/buns,  : 0.007117437722419921
+margarine, other vegetables, rolls/buns,  : 0.00518556176919166
+other vegetables, tropical fruit, root vegetables,  : 0.012302999491611606
+other vegetables, whole milk, hamburger meat,  : 0.006304016268429074
+other vegetables, curd, root vegetables,  : 0.0054905948144382275
+whole milk, pork, root vegetables,  : 0.006812404677173353
+yogurt, other vegetables, pastry,  : 0.0066090493136756415
+other vegetables, rolls/buns, newspapers,  : 0.0054905948144382275
+domestic eggs, yogurt, whole milk,  : 0.007727503812913056
+brown bread, whole milk, soda,  : 0.005083884087442804
+domestic eggs, whole milk, butter,  : 0.005998983223182507
+yogurt, whole milk, rolls/buns,  : 0.01555668530757502
+other vegetables, whole milk, pork,  : 0.010167768174885615
+bottled water, whole milk, fruit/vegetable juice,  : 0.005795627859684795
+other vegetables, soda, sausage,  : 0.0072191154041687765
+yogurt, other vegetables, whipped/sour cream,  : 0.010167768174885615
+other vegetables, butter, tropical fruit,  : 0.0054905948144382275
+yogurt, whole milk, cream cheese ,  : 0.0066090493136756415
+other vegetables, rolls/buns, soda,  : 0.009862735129639045
+shopping bags, other vegetables, root vegetables,  : 0.0066090493136756415
+domestic eggs, whole milk, pip fruit,  : 0.005388917132689372
+yogurt, whole milk, curd,  : 0.010066090493136759
+domestic eggs, margarine, whole milk,  : 0.00518556176919166
+sugar, other vegetables, whole milk,  : 0.006304016268429074
+pip fruit, citrus fruit, tropical fruit,  : 0.005592272496187083
+oil, other vegetables, whole milk,  : 0.005083884087442804
+pip fruit, tropical fruit, root vegetables,  : 0.005287239450940516
+whole milk, curd, root vegetables,  : 0.006202338586680218
+other vegetables, tropical fruit, whipped/sour cream,  : 0.007829181494661911
+shopping bags, whole milk, root vegetables,  : 0.005287239450940516
+whole milk, rolls/buns, newspapers,  : 0.0076258261311642
+yogurt, curd, tropical fruit,  : 0.005287239450940516
+domestic eggs, other vegetables, whole milk,  : 0.012302999491611606
+whole milk, soda, fruit/vegetable juice,  : 0.006100660904931362
+whole milk, sausage, tropical fruit,  : 0.0072191154041687765
+other vegetables, soda, tropical fruit,  : 0.0072191154041687765
+whole milk, soda, sausage,  : 0.006710726995424497
+yogurt, other vegetables, butter,  : 0.00640569395017793
+shopping bags, rolls/buns, soda,  : 0.006304016268429074
+other vegetables, sausage, root vegetables,  : 0.006812404677173353
+other vegetables, whole milk, soda,  : 0.013929842399593313
+yogurt, whole milk, frozen vegetables,  : 0.006100660904931362
+bottled water, whole milk, tropical fruit,  : 0.008032536858159625
+domestic eggs, other vegetables, rolls/buns,  : 0.005897305541433651
+yogurt, whipped/sour cream, root vegetables,  : 0.00640569395017793
+yogurt, other vegetables, pip fruit,  : 0.008134214539908481
+other vegetables, fruit/vegetable juice, root vegetables,  : 0.0066090493136756415
+yogurt, napkins, whole milk,  : 0.006100660904931362
+yogurt, brown bread, whole milk,  : 0.007117437722419921
+shopping bags, other vegetables, soda,  : 0.005388917132689372
+brown bread, whole milk, rolls/buns,  : 0.005287239450940516
+whole milk, curd, whipped/sour cream,  : 0.005897305541433651
+yogurt, rolls/buns, citrus fruit,  : 0.005795627859684795
+whole milk, pip fruit, tropical fruit,  : 0.008439247585155052
+whole milk, soda, tropical fruit,  : 0.007829181494661911
+other vegetables, citrus fruit, root vegetables,  : 0.010371123538383329
+beef, other vegetables, whole milk,  : 0.009252669039145905
+bottled water, other vegetables, sausage,  : 0.005083884087442804
+yogurt, other vegetables, sausage,  : 0.008134214539908481
+margarine, yogurt, other vegetables,  : 0.005693950177935939
+napkins, other vegetables, whole milk,  : 0.006812404677173353
+chicken, other vegetables, whole milk,  : 0.008439247585155052
+whole milk, fruit/vegetable juice, root vegetables,  : 0.006507371631926786
+beef, other vegetables, rolls/buns,  : 0.005795627859684795
+other vegetables, whole milk, long life bakery product,  : 0.005693950177935939
+napkins, whole milk, rolls/buns,  : 0.005287239450940516
+chicken, whole milk, rolls/buns,  : 0.005287239450940516
+other vegetables, onions, root vegetables,  : 0.005693950177935939
+whole milk, rolls/buns, frankfurter,  : 0.005998983223182507
+yogurt, whole milk, newspapers,  : 0.0066090493136756415
+yogurt, whole milk, citrus fruit,  : 0.010269445856634472
+yogurt, rolls/buns, root vegetables,  : 0.0072191154041687765
+other vegetables, whole milk, fruit/vegetable juice,  : 0.010472801220132185
+whole milk, citrus fruit, root vegetables,  : 0.009150991357397048
+other vegetables, butter, root vegetables,  : 0.0066090493136756415
+shopping bags, rolls/buns, sausage,  : 0.005998983223182507
+whole milk, butter, citrus fruit,  : 0.005083884087442804
+other vegetables, whole milk, rolls/buns,  : 0.017895271987798722
+bottled water, other vegetables, tropical fruit,  : 0.006202338586680218
+white bread, other vegetables, whole milk,  : 0.005897305541433651
+bottled beer, bottled water, whole milk,  : 0.006100660904931362
+margarine, other vegetables, root vegetables,  : 0.005897305541433651
+yogurt, pip fruit, tropical fruit,  : 0.00640569395017793
+other vegetables, whole milk, cream cheese ,  : 0.006710726995424497
+other vegetables, whole milk, curd,  : 0.009862735129639045
+shopping bags, other vegetables, sausage,  : 0.005388917132689372
+yogurt, rolls/buns, pastry,  : 0.005795627859684795
+yogurt, whole milk, root vegetables,  : 0.014539908490086453
+other vegetables, whole milk, hygiene articles,  : 0.00518556176919166
+whole milk, rolls/buns, butter,  : 0.0066090493136756415
+whole milk, butter, root vegetables,  : 0.008235892221657338
+other vegetables, whole milk, tropical fruit,  : 0.01708185053380787
+bottled water, rolls/buns, soda,  : 0.006812404677173353
+domestic eggs, yogurt, other vegetables,  : 0.005795627859684795
+whole milk, citrus fruit, whipped/sour cream,  : 0.006304016268429074
+domestic eggs, whole milk, soda,  : 0.00518556176919166
+other vegetables, butter, whipped/sour cream,  : 0.005795627859684795
+other vegetables, whole milk, frozen vegetables,  : 0.009659379766141332
+margarine, whole milk, rolls/buns,  : 0.007930859176410768
+whole milk, rolls/buns, pip fruit,  : 0.006202338586680218
+bottled water, yogurt, soda,  : 0.007422470767666488
+other vegetables, frozen vegetables, root vegetables,  : 0.006100660904931362
+yogurt, whole milk, pastry,  : 0.009150991357397048
+yogurt, whole milk, frankfurter,  : 0.006202338586680218
+whole milk, curd, tropical fruit,  : 0.006507371631926786
+whole milk, newspapers, root vegetables,  : 0.005795627859684795
+yogurt, whole milk, whipped/sour cream,  : 0.010879511947127612
+other vegetables, rolls/buns, citrus fruit,  : 0.005998983223182507
+domestic eggs, other vegetables, root vegetables,  : 0.007320793085917632
+whole milk, rolls/buns, sausage,  : 0.009354346720894762
+whole milk, butter, whipped/sour cream,  : 0.006710726995424497
+bottled water, other vegetables, soda,  : 0.005693950177935939
+bottled water, whole milk, rolls/buns,  : 0.008744280630401622
+yogurt, other vegetables, soda,  : 0.008337569903406195
+other vegetables, sausage, tropical fruit,  : 0.005998983223182507
+other vegetables, tropical fruit, pastry,  : 0.005083884087442804
+other vegetables, whole milk, onions,  : 0.0066090493136756415
+whole milk, whipped/sour cream, root vegetables,  : 0.009456024402643618
+whole milk, frozen vegetables, root vegetables,  : 0.006202338586680218
+
+---Freq 4: 12 in all---
+yogurt, other vegetables, whole milk, pip fruit,  : 0.005083884087442804
+other vegetables, whole milk, tropical fruit, root vegetables,  : 0.007015760040671065
+other vegetables, whole milk, citrus fruit, root vegetables,  : 0.005795627859684795
+other vegetables, whole milk, whipped/sour cream, root vegetables,  : 0.00518556176919166
+yogurt, other vegetables, whole milk, root vegetables,  : 0.007829181494661911
+yogurt, other vegetables, whole milk, tropical fruit,  : 0.0076258261311642
+yogurt, whole milk, tropical fruit, root vegetables,  : 0.005693950177935939
+yogurt, other vegetables, whole milk, whipped/sour cream,  : 0.005592272496187083
+other vegetables, whole milk, pip fruit, root vegetables,  : 0.0054905948144382275
+other vegetables, whole milk, rolls/buns, root vegetables,  : 0.006202338586680218
+yogurt, other vegetables, whole milk, fruit/vegetable juice,  : 0.005083884087442804
+yogurt, other vegetables, whole milk, rolls/buns,  : 0.005998983223182507
+
+---Rules: 120 in all---
+baking powder -> whole milk : 0.5229885057471251
+beef, yogurt,  -> whole milk : 0.5217391304347817
+brown bread, root vegetables,  -> whole milk : 0.5599999999999995
+yogurt, butter,  -> whole milk : 0.6388888888888875
+rolls/buns, root vegetables,  -> other vegetables : 0.502092050209204
+domestic eggs, whipped/sour cream,  -> other vegetables : 0.5102040816326527
+pastry, root vegetables,  -> whole milk : 0.5185185185185178
+yogurt, pip fruit,  -> whole milk : 0.5310734463276823
+chicken, root vegetables,  -> whole milk : 0.5514018691588777
+chicken, root vegetables,  -> other vegetables : 0.5233644859813077
+yogurt, other vegetables,  -> whole milk : 0.5128805620608942
+yogurt, fruit/vegetable juice,  -> whole milk : 0.5054347826086942
+rolls/buns, root vegetables,  -> whole milk : 0.5230125523012542
+rolls/buns, pork,  -> whole milk : 0.5495495495495486
+domestic eggs, tropical fruit,  -> whole milk : 0.607142857142856
+tropical fruit, root vegetables,  -> whole milk : 0.5700483091787429
+beef, rolls/buns,  -> whole milk : 0.49999999999999867
+yogurt, tropical fruit,  -> whole milk : 0.5173611111111103
+tropical fruit, pastry,  -> whole milk : 0.5076923076923064
+other vegetables, whipped/sour cream,  -> whole milk : 0.5070422535211259
+tropical fruit, frankfurter,  -> whole milk : 0.5483870967741934
+rolls/buns, whipped/sour cream,  -> whole milk : 0.5347222222222205
+root vegetables, frankfurter,  -> whole milk : 0.49999999999999967
+citrus fruit, whipped/sour cream,  -> other vegetables : 0.5233644859813077
+butter, tropical fruit,  -> whole milk : 0.6224489795918361
+tropical fruit, whipped/sour cream,  -> whole milk : 0.5735294117647042
+sausage, root vegetables,  -> whole milk : 0.5170068027210868
+pip fruit, root vegetables,  -> other vegetables : 0.5228758169934624
+curd, tropical fruit,  -> other vegetables : 0.5148514851485144
+domestic eggs, citrus fruit,  -> whole milk : 0.5490196078431366
+coffee, yogurt,  -> whole milk : 0.520833333333333
+other vegetables, butter,  -> whole milk : 0.5736040609137045
+bottled beer, yogurt,  -> whole milk : 0.5604395604395603
+newspapers, root vegetables,  -> other vegetables : 0.5221238938053089
+other vegetables, pip fruit,  -> whole milk : 0.5175097276264582
+whipped/sour cream, root vegetables,  -> other vegetables : 0.4999999999999985
+pip fruit, root vegetables,  -> whole milk : 0.575163398692809
+brown bread, tropical fruit,  -> whole milk : 0.5333333333333327
+domestic eggs, root vegetables,  -> whole milk : 0.5957446808510624
+sausage, whipped/sour cream,  -> whole milk : 0.5617977528089887
+pip fruit, whipped/sour cream,  -> other vegetables : 0.6043956043956041
+pastry, root vegetables,  -> other vegetables : 0.5370370370370363
+rolls/buns, curd,  -> whole milk : 0.5858585858585853
+pork, root vegetables,  -> other vegetables : 0.514925373134327
+pip fruit, whipped/sour cream,  -> whole milk : 0.648351648351648
+yogurt, root vegetables,  -> other vegetables : 0.499999999999999
+domestic eggs, whipped/sour cream,  -> whole milk : 0.571428571428571
+bottled water, butter,  -> whole milk : 0.6022727272727272
+rolls/buns, frozen vegetables,  -> whole milk : 0.49999999999999967
+sausage, pip fruit,  -> whole milk : 0.5188679245283012
+other vegetables, brown bread,  -> whole milk : 0.4999999999999986
+tropical fruit, root vegetables,  -> other vegetables : 0.5845410628019313
+curd, root vegetables,  -> other vegetables : 0.5046728971962611
+pork, root vegetables,  -> whole milk : 0.49999999999999867
+domestic eggs, yogurt,  -> whole milk : 0.5390070921985799
+domestic eggs, butter,  -> whole milk : 0.6210526315789469
+butter, tropical fruit,  -> other vegetables : 0.5510204081632649
+yogurt, cream cheese ,  -> whole milk : 0.5327868852459005
+shopping bags, root vegetables,  -> other vegetables : 0.5158730158730147
+domestic eggs, pip fruit,  -> whole milk : 0.623529411764706
+yogurt, curd,  -> whole milk : 0.5823529411764693
+domestic eggs, margarine,  -> whole milk : 0.6219512195121953
+sugar, other vegetables,  -> whole milk : 0.5849056603773576
+oil, other vegetables,  -> whole milk : 0.5102040816326527
+curd, root vegetables,  -> whole milk : 0.5700934579439244
+tropical fruit, whipped/sour cream,  -> other vegetables : 0.5661764705882336
+curd, tropical fruit,  -> yogurt : 0.5148514851485144
+domestic eggs, other vegetables,  -> whole milk : 0.5525114155251131
+sausage, tropical fruit,  -> whole milk : 0.5182481751824802
+fruit/vegetable juice, root vegetables,  -> other vegetables : 0.5508474576271175
+curd, whipped/sour cream,  -> whole milk : 0.5631067961165042
+citrus fruit, root vegetables,  -> other vegetables : 0.586206896551723
+fruit/vegetable juice, root vegetables,  -> whole milk : 0.5423728813559311
+other vegetables, long life bakery product,  -> whole milk : 0.5333333333333327
+chicken, rolls/buns,  -> whole milk : 0.5473684210526313
+onions, root vegetables,  -> other vegetables : 0.6021505376344083
+citrus fruit, root vegetables,  -> whole milk : 0.5172413793103434
+butter, root vegetables,  -> other vegetables : 0.511811023622046
+butter, citrus fruit,  -> whole milk : 0.5555555555555555
+margarine, root vegetables,  -> other vegetables : 0.5321100917431185
+other vegetables, curd,  -> whole milk : 0.5739644970414188
+yogurt, root vegetables,  -> whole milk : 0.5629921259842511
+other vegetables, hygiene articles,  -> whole milk : 0.5425531914893615
+butter, root vegetables,  -> whole milk : 0.6377952755905497
+citrus fruit, whipped/sour cream,  -> whole milk : 0.5794392523364477
+butter, whipped/sour cream,  -> other vegetables : 0.5699999999999994
+other vegetables, frozen vegetables,  -> whole milk : 0.5428571428571415
+margarine, rolls/buns,  -> whole milk : 0.5379310344827569
+frozen vegetables, root vegetables,  -> other vegetables : 0.5263157894736833
+yogurt, pastry,  -> whole milk : 0.5172413793103434
+yogurt, frankfurter,  -> whole milk : 0.5545454545454537
+curd, tropical fruit,  -> whole milk : 0.6336633663366329
+newspapers, root vegetables,  -> whole milk : 0.5044247787610612
+yogurt, whipped/sour cream,  -> whole milk : 0.5245098039215674
+domestic eggs, root vegetables,  -> other vegetables : 0.5106382978723389
+butter, whipped/sour cream,  -> whole milk : 0.6599999999999991
+whole milk, onions,  -> other vegetables : 0.5462184873949568
+whipped/sour cream, root vegetables,  -> whole milk : 0.5535714285714273
+frozen vegetables, root vegetables,  -> whole milk : 0.5350877192982446
+yogurt, other vegetables, pip fruit,  -> whole milk : 0.6250000000000004
+yogurt, whole milk, pip fruit,  -> other vegetables : 0.531914893617021
+other vegetables, tropical fruit, root vegetables,  -> whole milk : 0.5702479338842962
+whole milk, tropical fruit, root vegetables,  -> other vegetables : 0.5847457627118631
+other vegetables, citrus fruit, root vegetables,  -> whole milk : 0.558823529411764
+whole milk, citrus fruit, root vegetables,  -> other vegetables : 0.6333333333333331
+other vegetables, whipped/sour cream, root vegetables,  -> whole milk : 0.6071428571428573
+whole milk, whipped/sour cream, root vegetables,  -> other vegetables : 0.5483870967741934
+yogurt, other vegetables, root vegetables,  -> whole milk : 0.6062992125984236
+yogurt, whole milk, root vegetables,  -> other vegetables : 0.5384615384615368
+yogurt, other vegetables, tropical fruit,  -> whole milk : 0.6198347107438001
+yogurt, whole milk, tropical fruit,  -> other vegetables : 0.503355704697985
+yogurt, tropical fruit, root vegetables,  -> whole milk : 0.7000000000000003
+yogurt, other vegetables, whipped/sour cream,  -> whole milk : 0.5499999999999995
+yogurt, whole milk, whipped/sour cream,  -> other vegetables : 0.5140186915887844
+other vegetables, pip fruit, root vegetables,  -> whole milk : 0.6750000000000003
+whole milk, pip fruit, root vegetables,  -> other vegetables : 0.6136363636363635
+other vegetables, rolls/buns, root vegetables,  -> whole milk : 0.5083333333333323
+yogurt, other vegetables, fruit/vegetable juice,  -> whole milk : 0.6172839506172842
+yogurt, whole milk, fruit/vegetable juice,  -> other vegetables : 0.5376344086021504
+yogurt, other vegetables, rolls/buns,  -> whole milk : 0.5221238938053089
